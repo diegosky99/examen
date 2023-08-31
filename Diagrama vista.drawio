@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2023-08-31T12:49:40.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="IaHQ5YgLzxiQ_kYM8Gg9" version="21.6.5" type="device">
+  <diagram name="Página-1" id="ipl1_PRTW3sYKQq5jdvO">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c4kAxrCXktQUVT52M-cX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4kAxrCXktQUVT52M-cX-1" target="c4kAxrCXktQUVT52M-cX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4kAxrCXktQUVT52M-cX-2" target="c4kAxrCXktQUVT52M-cX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-3" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-4" value="&lt;b&gt;model&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-5" value="&lt;b&gt;control&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-6" value="&lt;b&gt;view&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-7" value="clasificacion&lt;br&gt;lechuga&lt;br&gt;mora&lt;br&gt;plantas zanahoria&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-9" value="controlador&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4kAxrCXktQUVT52M-cX-12" value="vista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

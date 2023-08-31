@@ -1,0 +1,74 @@
+<mxfile host="Electron" modified="2023-08-31T12:45:18.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="bZc3tvEJf_jtrctLirrZ" version="21.6.5" type="device">
+  <diagram name="Página-1" id="p12hJwqo9Qx-8kMszPft">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DUSzocRn8TrrCWCM8PhD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="421" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-1" value="&lt;br&gt;-reino&lt;br&gt;-nombre&lt;br&gt;-color&lt;br&gt;-edad" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-3" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-4" value="Plantas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-6" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="275" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DUSzocRn8TrrCWCM8PhD-7" target="DUSzocRn8TrrCWCM8PhD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DUSzocRn8TrrCWCM8PhD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DUSzocRn8TrrCWCM8PhD-7" target="DUSzocRn8TrrCWCM8PhD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-7" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-11" value="Interfaz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-12" value="Zanahoria&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-13" value="Lechugas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-14" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="114" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-15" value="Mora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-19" value="-color&lt;br&gt;-edad" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-20" value="-reino&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-nombre&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-color&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-edad&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-21" value="-reino&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-nombre&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-color&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-edad&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DUSzocRn8TrrCWCM8PhD-22" value="-reino&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-nombre&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-color&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-edad&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
